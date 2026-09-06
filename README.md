@@ -96,8 +96,9 @@ Outil interactif d'exploration de graphes Python dans le navigateur : BFS, DFS, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VBL33k&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" height="160" alt="Statistiques GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBL33k&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" height="160" alt="Langages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VBL33k&theme=github_dark" height="200" alt="Statistiques GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VBL33k&theme=github_dark" height="200" alt="Langages les plus utilises" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VBL33k&theme=github_dark" height="200" alt="Langages les plus commites" />
 
 <br><br>
 
