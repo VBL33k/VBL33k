@@ -18,11 +18,11 @@
 
 Je développe des applications web qui répondent à des besoins concrets : un portail hospitalier utilisé quotidiennement par une cinquantaine de personnes, un outil de logistique pour des équipes techniques de concerts, une extension navigateur pour des lycéens.
 
-Mon approche : partir d'un usage réel, livrer vite une première version fonctionnelle, puis itérer avec les utilisateurs. J'interviens sur toute la chaîne — modélisation des données, API, interface, déploiement.
+Mon approche : partir d'un usage réel, livrer vite une première version fonctionnelle, puis itérer avec les utilisateurs. J'interviens sur toute la chaîne : modélisation des données, API, interface, déploiement.
 
-🎯 **En ce moment** — évolution du portail HCT et industrialisation de mes déploiements.
-📚 **J'apprends** — TypeScript, tests automatisés, architecture backend.
-🤝 **Ouvert à** — projets freelance, collaborations open source, stages.
+🎯 **En ce moment** : évolution du portail HCT et industrialisation de mes déploiements.
+📚 **J'apprends** : TypeScript, tests automatisés, architecture backend.
+🤝 **Ouvert à** : projets freelance, collaborations open source, stages.
 
 <br>
 
