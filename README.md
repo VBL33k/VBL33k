@@ -16,7 +16,7 @@
 
 ## 👋 À propos
 
-Je développe des applications web qui répondent à des besoins concrets : un portail hospitalier utilisé quotidiennement par une cinquantaine de personnes, un outil de logistique pour des équipes techniques de concerts, une extension navigateur pour des lycéens.
+Je développe des applications web qui répondent à des besoins concrets : un portail hospitalier utilisé quotidiennement par une cinquantaine de personnes, un outil de logistique pour des équipes techniques de concerts, une extension navigateur pour des lycéens, un logiciel qui range des milliers de morceaux de musique sans intervention.
 
 Mon approche : partir d'un usage réel, livrer vite une première version fonctionnelle, puis itérer avec les utilisateurs. J'interviens sur toute la chaîne : modélisation des données, API, interface, déploiement.
 
@@ -45,6 +45,7 @@ Mon approche : partir d'un usage réel, livrer vite une première version foncti
       <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
       <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff" />
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" />
     </td>
   </tr>
   <tr>
@@ -85,6 +86,10 @@ Site vitrine et e-commerce avec authentification Discord, panel client, espace v
 ### 📊 [Moyenne Pronote](https://github.com/VBL33k)
 Extension navigateur calculant la moyenne générale directement depuis Pronote. Moyennes simples et pondérées, détail par matière.
 > **Open source** · `JavaScript` `WebExtensions`
+
+### 💿 [Platine](https://github.com/VBL33k/platine)
+Logiciel Windows qui range tout seul une bibliothèque musicale en vrac : noms et tags corrigés, années, albums et pochettes retrouvés (Deezer, MusicBrainz), doublons écartés, classement par genre jusque sur une clé USB pour l'autoradio. Claude n'est appelé que pour les cas introuvables, avec un plafond de dépense mensuel. Pensé pour un utilisateur non technique, avec mises à jour automatiques.
+> **Logiciel desktop + IA** · `Python` `pywebview` `SQLite` `Claude API`
 
 ### 🕸️ [Visualisateur de graphes](https://vbl33k.dev)
 Outil interactif d'exploration de graphes Python dans le navigateur : BFS, DFS, Dijkstra, layout force-directed, coloration gloutonne, composantes et diamètre.
